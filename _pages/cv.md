@@ -7,53 +7,26 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download Full CV](https://mahirkabir.github.io/files/Resume_of_Md_Mahir_Asef_Kabir.pdf) <span style ="color:Green"> [<ins>*Last Updated on Dec 20, 2020*</ins>] </span>
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Contact Me
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+---
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Email:** mdmahirasefk [at] vt [dot] edu <br />
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Website:** [https://mahirkabir.github.io](https://mahirkabir.github.io/) <br />
+
+You can also find me on [Twitter](https://twitter.com/KabirMahir), and [Github](https://github.com/mahirkabir/).
+
+**Address:**
+
+<address>
+208 Broce Dr. Apt 2 <br /> 
+Blacksburg, VA <br /> 
+USA <br /> 
+</address> 
+<!-- <br /> 
+<iframe src="https://maps.google.com/maps?q=Enosis%20Solutions,%20House%20-%2027%20Rd%20No%208,%20Dhaka%201212&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> -->
+
+---
