@@ -74,8 +74,9 @@ social:
 analytics:
   provider: "google-ga4" # false (default), "google", "google-universal", "custom", "google-ga4"
   google:
-    tag_id: G-207QBX5E3N
     # tracking_id: # UA-189125427-1
+    measurement_id: G-207QBX5E3N
+    anonymize_ip: # true, false (default)
 # Site Author
 author:
   name: "Md Mahir Asef Kabir"
