@@ -13,10 +13,10 @@ author_profile: true
 
 ---
 
-- **Md Mahir Asef Kabir**, Ying Wang, Danfeng Yao, Na Meng, ["How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?"](https://people.cs.vt.edu/nm8247/publications/mahir-secdev-2022.pdf), 2022 IEEE Secure Development Conference (SecDev)
+- **Md Mahir Asef Kabir**, Ying Wang, Danfeng Yao, Na Meng, ["How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?"](https://ieeexplore.ieee.org/abstract/document/9973037), 2022 IEEE Secure Development Conference (SecDev) || [[Code]](https://github.com/mahirkabir/best-practice-tracker) || [[Presentation]](https://mahirkabir.github.io/files/Mahir_SecDev_22.pdf)
 
 ---
 
-- Ying Zhang, **Md Mahir Asef Kabir**, Ya Xiao, Danfeng Daphne Yao, Na Meng, ["Automatic Detection of Java Cryptographic API Misuses: Are We There Yet"](https://people.cs.vt.edu/nm8247/publications/TSE3150302-2.pdf), IEEE Transactions on Software Engineering (TSE)
+- Ying Zhang, **Md Mahir Asef Kabir**, Ya Xiao, Danfeng Daphne Yao, Na Meng, ["Automatic Detection of Java Cryptographic API Misuses: Are We There Yet"](https://ieeexplore.ieee.org/document/9711933), IEEE Transactions on Software Engineering (TSE)
 
 ---
