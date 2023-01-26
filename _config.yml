@@ -72,9 +72,10 @@ social:
 
 # Analytics
 analytics:
-  provider: "google-universal" # false (default), "google", "google-universal", "custom"
+  provider: "google-ga4" # false (default), "google", "google-universal", "custom", "google-ga4"
   google:
-    tracking_id: G-207QBX5E3N # UA-189125427-1 # Need different approach for setting up ga4
+    tag_id: G-207QBX5E3N
+    # tracking_id: # UA-189125427-1
 # Site Author
 author:
   name: "Md Mahir Asef Kabir"
