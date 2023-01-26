@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year Computer Science PhD student at the [Virginia Tech](https://cs.vt.edu/), currently advised by [Dr. Na Meng](https://people.cs.vt.edu/nm8247/). I have completed my B.Sc. in Computer Science and Engineerings from [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/). After graduation, I worked as a Software Engineer at [Enosis Solutions](https://www.enosisbd.com/), Bangladesh for 3.5 years. My area of research is Software Engineering, and Software Security. I am passionate about -  Domain Specific Languages, Static Program Analysis, Algorithm & Data Structures, Problem Solving, etc.
+I am a 4th year PhD student in the Department of Computer Science at the [Virginia Tech](https://cs.vt.edu/), currently advised by [Dr. Na Meng](https://people.cs.vt.edu/nm8247/). I have completed my B.Sc. in Computer Science and Engineerings from [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/). 
+
+My area of research is Software Engineering, and Software Security. I am currently working on helping developers maintain project configuration well, so that they face fewer run-time errors and security issues. I frequently use self-made external Domain Specific Language, Static Program Analysis, and optimized Algorithm & Data Structures to solve different research problems.
+
+After graduation, I worked as a Software Engineer at [Enosis Solutions](https://www.enosisbd.com/), Bangladesh for 3.5 years. I am passionate about solving algorithm problems. During my undergrad studies, I was an active participant in the national and international level programming contests.
 
 **Contact**: mdmahirasefk (at) vt (dot) edu
 
@@ -21,5 +25,6 @@ I am a 4th year Computer Science PhD student at the [Virginia Tech](https://cs.v
 
 - <span style="color:Blue"> [Oct 2022] </span> - Presented a paper at [IEEE SecDev](https://secdev.ieee.org/2022/home/).
 - <span style="color:Blue"> [Aug 2022] </span> - Our paper on "How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?" was accepted by [IEEE SecDev](https://secdev.ieee.org/2022/home/).
-- <span style="color:Blue"> [Aug 2022] </span> - Our paper on "Automatic Detection of Java Cryptographic API Misuses: Are We There Yet?" was selected for presentation by [ASE].
+- <span style="color:Blue"> [Aug 2022] </span> - Our paper on "Automatic Detection of Java Cryptographic API Misuses: Are We There Yet?" was selected for presentation by [ASE](https://conf.researchr.org/home/ase-2022).
+
 ---
