@@ -16,7 +16,7 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 
 **Contact**: mdmahirasefk (at) vt (dot) edu
 
-[**Download CV**](https://mahirkabir.github.io/files/Resume_of_Md_Mahir_Asef_Kabir.pdf)
+[**Download Resume**](https://mahirkabir.github.io/files/Resume_of_Md_Mahir_Asef_Kabir.pdf)
 
 <!-- <a href="https://mahirkabir.github.io/publications/"> <img src="https://mahirkabir.github.io/images/pubs.png" alt="Publication Venues"
 	title="Publication Venues" width="600" height="200"> </a> -->
