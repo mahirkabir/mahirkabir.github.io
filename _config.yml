@@ -75,7 +75,7 @@ analytics:
   provider: "google-ga4" # false (default), "google", "google-universal", "custom", "google-ga4"
   google:
     # tracking_id: # UA-189125427-1
-    measurement_id: G-207QBX5E3N
+    measurement_id: "G-207QBX5E3N"
     anonymize_ip: # true, false (default)
 # Site Author
 author:
