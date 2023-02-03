@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Education & Awards"
   #   url: /education-awards/
