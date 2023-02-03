@@ -23,8 +23,11 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 
 ## Recent News
 
-- <span style="color:Blue"> [Oct 2022] </span> - Presented a paper at [IEEE SecDev](https://secdev.ieee.org/2022/home/).
-- <span style="color:Blue"> [Aug 2022] </span> - Our paper on "How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?" was accepted by [IEEE SecDev](https://secdev.ieee.org/2022/home/).
-- <span style="color:Blue"> [Aug 2022] </span> - Our paper on "Automatic Detection of Java Cryptographic API Misuses: Are We There Yet?" was selected for presentation by [ASE](https://conf.researchr.org/home/ase-2022).
+- <span style="color:Blue"> [Nov 2022] </span> - Attended [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
+- <span style="color:Blue"> [Oct 2022] </span> - Presented a paper at [IEEE SecDev 2022](https://secdev.ieee.org/2022/home/).
+- <span style="color:Blue"> [Aug 2022] </span> - Our paper on "How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?" was accepted by [IEEE SecDev 2022](https://secdev.ieee.org/2022/home/).
+- <span style="color:Blue"> [Aug 2022] </span> - Our paper on "Automatic Detection of Java Cryptographic API Misuses: Are We There Yet?" was selected for presentation by [ASE 2022](https://conf.researchr.org/home/ase-2022).
+- <span style="color:Blue"> [Mar 2022] </span> - Our paper on "Example-Based Vulnerability Detection and Repair in Java Code" was accepted by [ICPC 2022](https://conf.researchr.org/home/icpc-2022).
+- <span style="color:Blue"> [Feb 2022] </span> - Our paper on "	Automatic Detection of Java Cryptographic API Misuses: Are We There Yet?" was accepted by [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32).
 
 ---
