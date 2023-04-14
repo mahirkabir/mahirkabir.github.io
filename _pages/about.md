@@ -24,7 +24,7 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 ## Research Publications
 
 ### 2022
-- **Md Mahir Asef Kabir**, Ying Wang, Danfeng Yao, Na Meng, ["How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?"](https://ieeexplore.ieee.org/abstract/document/9973037), 2022 IEEE Secure Development Conference (SecDev) [[Code]](https://github.com/mahirkabir/best-practice-tracker) [[Presentation]](https://mahirkabir.github.io/files/Mahir_SecDev_22.pdf)
+- **Md Mahir Asef Kabir**, Ying Wang, Danfeng Yao, Na Meng, ["How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?"](https://ieeexplore.ieee.org/abstract/document/9973037), 2022 IEEE Secure Development Conference (SecDev) [[Code]](https://github.com/mahirkabir/best-practice-tracker) [[Presentation]](https://mahirkabir.github.io/files/Mahir_SecDev_22.pdf) [[Paper]](https://mahirkabir.github.io/files/mahir_paper_1.pdf)
 
 ---
 
