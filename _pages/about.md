@@ -38,6 +38,7 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 
 ## Recent News
 
+- <span style="color:Blue"> [Oct 2023] </span> - Successfully passed the Ph.D. preliminary exam and has become a Ph.D. candidate.
 - <span style="color:Blue"> [Nov 2022] </span> - Attended [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
 - <span style="color:Blue"> [Oct 2022] </span> - Presented a paper at [IEEE SecDev 2022](https://secdev.ieee.org/2022/home/).
 - <span style="color:Blue"> [Aug 2022] </span> - Our paper on "How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?" was accepted by [IEEE SecDev 2022](https://secdev.ieee.org/2022/home/).
