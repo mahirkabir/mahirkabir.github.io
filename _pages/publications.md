@@ -17,6 +17,10 @@ author_profile: true
 
 ---
 
+- Ying Zhang, Ya Xiao, **Md Mahir Asef Kabir**, Daphne Yao, Na Meng, ["Example-Based Vulnerability Detection and Repair in Java Code"](https://dl.acm.org/doi/abs/10.1145/3524610.3527895), ICPC '22: Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension
+
+---
+
 - Ying Zhang, **Md Mahir Asef Kabir**, Ya Xiao, Danfeng Daphne Yao, Na Meng, ["Automatic Detection of Java Cryptographic API Misuses: Are We There Yet"](https://ieeexplore.ieee.org/document/9711933), IEEE Transactions on Software Engineering (TSE)
 
 ---
