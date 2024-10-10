@@ -23,9 +23,6 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 
 ## Research Publications
 
-### 2024
-- Served as a Committee Member in the Artifact Evaluation Committee of [SLE 2024](https://2024.splashcon.org/committee/sle-2024-artifact-evaluation-committee)
-
 ### 2022
 - **Md Mahir Asef Kabir**, Ying Wang, Danfeng Yao, Na Meng, ["How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?"](https://ieeexplore.ieee.org/abstract/document/9973037), 2022 IEEE Secure Development Conference (SecDev) [[Code]](https://github.com/mahirkabir/best-practice-tracker) [[Presentation]](https://mahirkabir.github.io/files/Mahir_SecDev_22.pdf) [[Paper]](https://mahirkabir.github.io/files/mahir_paper_1.pdf)
 
@@ -41,6 +38,7 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 
 ## Recent News
 
+- <span style="color:Blue"> [Oct 2024] </span> - Served as a Committee Member in the Artifact Evaluation Committee of [SLE 2024](https://2024.splashcon.org/committee/sle-2024-artifact-evaluation-committee).
 - <span style="color:Blue"> [Mar 2024] </span> - Attended Bloomberg Tech Lab at Virginia Tech and learned about Docker containers and RabbitMQ message-broker.
 - <span style="color:Blue"> [Oct 2023] </span> - Successfully passed the Ph.D. preliminary exam and has become a Ph.D. candidate.
 - <span style="color:Blue"> [Nov 2022] </span> - Attended [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
