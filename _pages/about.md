@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD student in the Department of Computer Science at [Virginia Tech](https://cs.vt.edu/). I am advised by [Dr. Na Meng](https://people.cs.vt.edu/nm8247/). I have completed my B.Sc. in Computer Science and Engineerings from [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/). 
+I am a final year PhD student in the Department of Computer Science at [Virginia Tech](https://cs.vt.edu/). I am advised by [Dr. Na Meng](https://people.cs.vt.edu/nm8247/). I have completed my B.Sc. in Computer Science and Engineerings from [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/). 
 
 My area of research is Software Engineering, and Software Security. I am currently working on helping developers maintain project configuration well, so that they face fewer run-time errors and security issues. I frequently use self-made external Domain Specific Language, Static Program Analysis, and optimized Algorithm & Data Structures to solve different research problems.
 
@@ -22,6 +22,9 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 	title="Publication Venues" width="600" height="200"> </a> -->
 
 ## Research Publications
+
+### 2022
+- Served as a Committee Member in Artifact Evaluation Committee of [SLE 2024](https://2024.splashcon.org/committee/sle-2024-artifact-evaluation-committee)
 
 ### 2022
 - **Md Mahir Asef Kabir**, Ying Wang, Danfeng Yao, Na Meng, ["How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?"](https://ieeexplore.ieee.org/abstract/document/9973037), 2022 IEEE Secure Development Conference (SecDev) [[Code]](https://github.com/mahirkabir/best-practice-tracker) [[Presentation]](https://mahirkabir.github.io/files/Mahir_SecDev_22.pdf) [[Paper]](https://mahirkabir.github.io/files/mahir_paper_1.pdf)
