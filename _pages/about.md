@@ -23,6 +23,10 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 
 ## Research Publications
 
+### 2024
+- **Md Mahir Asef Kabir**, Xiaoyin Wang, Na Meng, "Detecting Java Projects' Metadata-related Bugs" (Under Review)
+- **Md Mahir Asef Kabir**, Adnan Hassan, Xiaoyin Wang, Ying Wang, Hai Yu, Na Meng, "An empirical study of ChatGPT-3.5 on question answering and code maintenance" (Under Review) [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oJcLOnwAAAAJ&citation_for_view=oJcLOnwAAAAJ:qjMakFHDy7sC)
+
 ### 2022
 - **Md Mahir Asef Kabir**, Ying Wang, Danfeng Yao, Na Meng, ["How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?"](https://ieeexplore.ieee.org/abstract/document/9973037), 2022 IEEE Secure Development Conference (SecDev) [[Code]](https://github.com/mahirkabir/best-practice-tracker) [[Presentation]](https://mahirkabir.github.io/files/Mahir_SecDev_22.pdf) [[Paper]](https://mahirkabir.github.io/files/mahir_paper_1.pdf)
 
