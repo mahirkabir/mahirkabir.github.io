@@ -24,7 +24,7 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 ## Research Publications
 
 ### 2024
-- **Md Mahir Asef Kabir**, Xiaoyin Wang, Na Meng, "Detecting Java Projects' Metadata-related Bugs" (Under Review)
+- **Md Mahir Asef Kabir**, Xiaoyin Wang, Na Meng, "Detecting Java Projects' Metadata-related Bugs" (**Paper Accepted at FSE 2025**)
 - **Md Mahir Asef Kabir**, Adnan Hassan, Xiaoyin Wang, Ying Wang, Hai Yu, Na Meng, "An empirical study of ChatGPT-3.5 on question answering and code maintenance" (Under Review) [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oJcLOnwAAAAJ&citation_for_view=oJcLOnwAAAAJ:qjMakFHDy7sC)
 
 ### 2022
@@ -42,14 +42,16 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 
 ## Recent News
 
+- <span style="color:Blue"> [Jan 2025] </span> - My first-author paper on detecting metadata-related bugs in enterprise applications has been accepted at FSE 2025, which is a top-tier A* conference 🎉🎉🎉.
+
 - <span style="color:Blue"> [Oct 2024] </span> - Served as a Committee Member in the Artifact Evaluation Committee of [SLE 2024](https://2024.splashcon.org/committee/sle-2024-artifact-evaluation-committee).
 - <span style="color:Blue"> [Mar 2024] </span> - Attended Bloomberg Tech Lab at Virginia Tech and learned about Docker containers and RabbitMQ message-broker.
-- <span style="color:Blue"> [Oct 2023] </span> - Successfully passed the Ph.D. preliminary exam and has become a Ph.D. candidate.
+- <span style="color:Blue"> [Oct 2023] </span> - Successfully passed the Ph.D. preliminary exam and has become a Ph.D. candidate 🎉🎉.
 - <span style="color:Blue"> [Nov 2022] </span> - Attended [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/).
-- <span style="color:Blue"> [Oct 2022] </span> - Presented a paper at [IEEE SecDev 2022](https://secdev.ieee.org/2022/home/).
-- <span style="color:Blue"> [Aug 2022] </span> - Our paper on "How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?" was accepted by [IEEE SecDev 2022](https://secdev.ieee.org/2022/home/).
+- <span style="color:Blue"> [Oct 2022] </span> - Presented our work at [IEEE SecDev 2022](https://secdev.ieee.org/2022/home/).
+- <span style="color:Blue"> [Aug 2022] </span> - Our paper on "How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?" was accepted by [IEEE SecDev 2022](https://secdev.ieee.org/2022/home/) 🎉🎉.
 - <span style="color:Blue"> [Aug 2022] </span> - Our paper on "Automatic Detection of Java Cryptographic API Misuses: Are We There Yet?" was selected for presentation by [ASE 2022](https://conf.researchr.org/home/ase-2022).
-- <span style="color:Blue"> [Mar 2022] </span> - Our paper on "Example-Based Vulnerability Detection and Repair in Java Code" was accepted by [ICPC 2022](https://conf.researchr.org/home/icpc-2022).
-- <span style="color:Blue"> [Feb 2022] </span> - Our paper on "	Automatic Detection of Java Cryptographic API Misuses: Are We There Yet?" was accepted by [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32).
+- <span style="color:Blue"> [Mar 2022] </span> - Our paper on "Example-Based Vulnerability Detection and Repair in Java Code" was accepted by [ICPC 2022](https://conf.researchr.org/home/icpc-2022) 🎉.
+- <span style="color:Blue"> [Feb 2022] </span> - Our paper on "	Automatic Detection of Java Cryptographic API Misuses: Are We There Yet?" was accepted by [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32) 🎉.
 
 ---
