@@ -24,6 +24,10 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 
 ## Recent News
 
+- <span style="color:Blue"> [Mar 2025] </span> - My first-author paper on investigating LLMs' performance in revising software based on maintenance requests has been accepted at **LLanMER 2025** (co-located with FSE 2025) 🎉🎉.
+
+- <span style="color:Blue"> [Mar 2025] </span> - I have been awarded travel grants by [Virginia Tech GPSS](https://gpss.vt.edu/) and [Virginia Tech CS Grad Council](https://csgrad.cs.vt.edu/) to attend FSE 2025 in Norway.
+
 - <span style="color:Blue"> [Jan 2025] </span> - My first-author paper on detecting metadata-related bugs in enterprise applications has been accepted at **FSE 2025**, a top-tier A* conference 🎉🎉🎉.
 
 - <span style="color:Blue"> [Oct 2024] </span> - Served as a Committee Member in the Artifact Evaluation Committee of [SLE 2024](https://2024.splashcon.org/committee/sle-2024-artifact-evaluation-committee).
@@ -40,12 +44,16 @@ After graduation, I worked as a Software Engineer at [Enosis Solutions](https://
 
 ## Research Publications
 
-### 2024
-- **Md Mahir Asef Kabir**, Xiaoyin Wang, Na Meng, "Detecting Java Projects' Metadata-related Bugs" (**Paper Accepted at FSE 2025**)
+### 2025
+- **Md Mahir Asef Kabir**, Adnan Hassan, "How Well Do ChatGPT Models Maintain Software?", LLanMER 2025: The First International Workshop on Large Language Model-Oriented Empirical Research
 
 ---
 
-- **Md Mahir Asef Kabir**, Adnan Hassan, Xiaoyin Wang, Ying Wang, Hai Yu, Na Meng, "An empirical study of ChatGPT-3.5 on question answering and code maintenance" (Under Review) [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oJcLOnwAAAAJ&citation_for_view=oJcLOnwAAAAJ:qjMakFHDy7sC)
+- **Md Mahir Asef Kabir**, Xiaoyin Wang, Na Meng, ["Detecting Java Projects' Metadata-related Bugs"](https://arxiv.org/abs/2502.14463), FSE 2025: The ACM International Conference on the Foundations of Software Engineering [[Code]](https://github.com/mahirkabir/detecting-metadata-bugs) [[Paper]](https://mahirkabir.github.io/files/mahir_paper_fse25.pdf)
+
+<!-- ---
+
+- **Md Mahir Asef Kabir**, Adnan Hassan, Xiaoyin Wang, Ying Wang, Hai Yu, Na Meng, "An empirical study of ChatGPT-3.5 on question answering and code maintenance" (Under Review) [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oJcLOnwAAAAJ&citation_for_view=oJcLOnwAAAAJ:qjMakFHDy7sC) -->
 
 ### 2022
 - **Md Mahir Asef Kabir**, Ying Wang, Danfeng Yao, Na Meng, ["How Do Developers Follow Security-Relevant Best Practices When Using NPM Packages?"](https://ieeexplore.ieee.org/abstract/document/9973037), 2022 IEEE Secure Development Conference (SecDev) [[Code]](https://github.com/mahirkabir/best-practice-tracker) [[Presentation]](https://mahirkabir.github.io/files/Mahir_SecDev_22.pdf) [[Paper]](https://mahirkabir.github.io/files/mahir_paper_1.pdf)
