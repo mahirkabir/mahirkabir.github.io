@@ -12,7 +12,7 @@ I am a PhD Candidate in the Department of Computer Science at [Virginia Tech](ht
 
 My area of research is Software Engineering, and Software Security. I am currently working on enhancing software maintenance with the help of current-practice identification, automatic bug detection, and automatic program repairing. I frequently use self-made external Domain Specific Language, Static Program Analysis, LLM fine-tuning, and optimized Algorithm & Data Structures to solve different research problems.
 
-After graduation, I worked as a Software Engineer at [Enosis Solutions](https://www.enosisbd.com/), Bangladesh for 3.5 years. I am passionate about solving algorithmic problems. During my undergrad studies, I was an active participant in the national and international level programming contests.
+After completing my undergraduate studies, I worked as a Software Engineer at [Enosis Solutions](https://www.enosisbd.com/), Bangladesh for 3.5 years. I am passionate about solving algorithmic problems. During my undergrad studies, I was an active participant in the national and international level programming contests.
 
 **Contact**: mdmahirasefk (at) vt (dot) edu
 
